@@ -1,2 +1,2 @@
 # -The-Butterflies-of-North-America
-A series of host/parasite interaction from Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
+A series of host/parasite interaction from Wharton, Robert A, and Paul M Marsh. "New World Opiinae (Hymenoptera: Braconidae) Parasitic on Tephritidae (Diptera)." Journal of the Washington Academy of Sciences 68 (1978): 21. http://www.biodiversitylibrary.org/part/50699. that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
