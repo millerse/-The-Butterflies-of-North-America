@@ -11,7 +11,7 @@ EOL:4420	Acanthaceae	RO:0002453	host of	EOL:4068082	Siproeta stelenes	GEONAMES:6
 EOL:4420	Acanthaceae	RO:0002453	host of	EOL:4073569	Phyciodes texana	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:4415	Aceraceae	RO:0002453	host of	EOL:163165	Nymphalis antiopa	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:68878	Acoelorrhaphe	RO:0002453	host of	EOL:181649	Asbolis capucinus	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
-	Agavaceae	RO:0002453	host of	EOL:182999	Megathymus yuccae	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
+EOL:4174	Agavaceae	RO:0002453	host of	EOL:182999	Megathymus yuccae	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:108068	Agropygon	RO:0002453	host of	EOL:183698	Ochlodes sylvanoides	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:108068	Agropyon	RO:0002453	host of	EOL:184076	Poanes taxiles	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:108068	Agropyon	RO:0002453	host of	EOL:218565	Poanes zabulon	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
@@ -64,7 +64,7 @@ EOL:108079	Bromus	RO:0002453	host of	EOL:2683098	Poanes melane	GEONAMES:6255149	
 EOL:8202	Cannaceae	RO:0002453	host of	EOL:182346	Calpodes ethlius	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:4220	Capparidaceae	RO:0002453	host of	EOL:2918245	Appias drusilla	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:4220	Capparidaceae	RO:0002453	host of	EOL:4103152	Ganyra josephina	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
-	Car	RO:0002453	host of	EOL:135291	Erebia mancinus	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
+EOL:29129	Carex	RO:0002453	host of	EOL:135291	Erebia mancinus	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:29129	Carex	RO:0002453	host of	EOL:137607	Erebia rossii	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:29129	Carex	RO:0002453	host of	EOL:178520	Euphyes bimacula	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
 EOL:29129	Carex	RO:0002453	host of	EOL:179581	Euphyes conspicua	GEONAMES:6255149	North America					Scott, J.A. 1986.  The Butterflies of North America.  Stanford University Press, Stanford, CA
